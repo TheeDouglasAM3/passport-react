@@ -7,7 +7,13 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "passport": "^0.4.1",
+    "passport-amazon": "^1.0.0",
     "passport-facebook": "^3.0.0",
+    "passport-github": "^1.1.0",
+    "passport-google-oauth20": "^2.0.0",
+    "passport-instagram": "^1.0.0",
+    "passport-spotify": "^1.1.0",
+    "passport-twitch.js": "^0.0.9",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-scripts": "3.0.1"
